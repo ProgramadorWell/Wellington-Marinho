@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;   /* Visual geral da página */
+    color: #333;
+    text-align: center;
+}
+
+/* Imagem de perfil */
+#Imagem1 {
+    width: 200px;
+    height: auto;
+    border-radius: 20%;
+    margin: 20px 0;
+    
+}
+
+
+/* Visual do Título */
+h1 {
+    font-size: 2.5rem;
+    margin-top: 40px;
+    color: #004080;
+    
+}
+
+
+/* Visual do Sub-título */
+h2 {
+    font-size: 1.5rem;
+    color: #555;
+    margin-bottom: 30px;
+ 
+}
+
+
+
+
+
+
+
+ 
+
+  
+ 
+
